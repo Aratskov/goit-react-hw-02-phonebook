@@ -2,7 +2,6 @@ import { ContactForm } from "./Component/ContactForm/ContactForm";
 import { Filter } from "./Component/Filter/Filter";
 import { ContactList } from "./Component/ContactList/ContactList";
 
-import "./App.css";
 import { Component } from "react";
 
 class App extends Component {
